@@ -1,0 +1,10 @@
+#ejercicio 3 (12 del libro)
+hs=48 #horas a la semana
+h= 5000 #valor hora
+sb= h*hs #salario bruto (horas * valor de hora)
+rf= sb*0.125 #retencion en la fuente (12.5% del salario bruto)
+sn = sb-rf #salario neto, salario bruto - retencion en fuente
+#impresion de resultados:
+print("salario bruto", sb)
+print("retencion en la fuente", rf)
+print("salario neto", sn)
