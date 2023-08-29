@@ -1,0 +1,9 @@
+#Ejercicio 5 (17 del libro)
+import math 
+print("Ingrese radio de circulo:")
+r = float(input())
+pi= math.pi
+A= pi*(r**2)
+L= 2*pi*r
+print("area de circulo:", A)
+print("Longitud de circulo", L)
