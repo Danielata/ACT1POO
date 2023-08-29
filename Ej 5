@@ -1,0 +1,10 @@
+#Ejercicio 2 (5 del libro)
+# Prueba de escritorio:
+SUMA = 0
+X = 20
+SUMA = SUMA+X #20
+Y = 40
+X = X+Y**2 #1620
+SUMA = SUMA +X/Y #60.5
+print("El valor de la suma es:", SUMA)
+print("prueba de escritorio superada, es correcto")
