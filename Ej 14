@@ -1,0 +1,5 @@
+#ejercicio 4 (14 del libro)
+print("ingrese numero")
+N= float(input()) #entrada por teclado de un numero
+print("cuadrado del número:", N**2)
+print("cubo del número:", N**3)
