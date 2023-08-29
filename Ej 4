@@ -1,0 +1,11 @@
+#ejercicio 1 (4 del libro)
+print("ingrese edad de Juan:") #texto para entrada
+eJ = float(input()) #ingreso por teclado de la edad de juan (9)
+eB = (2/3)*eJ #calculo edad de alberto
+eA = (4/3)*eJ #calculo edad de Ana
+eM = eJ+eB+eA #Calculo edad mamá
+print("La edad de Juan es:", eJ)  #texto edad de juan y su edad
+print("La edad de Alberto es:", eB)  #texto edad de Alberto y su edad
+print("La edad de Ana es:", eA)    #texto edad de Ana y su edad
+print("La edad de la mamá es:", eM)  #texto edad de Mamá y su edad
+
